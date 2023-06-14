@@ -1,4 +1,4 @@
 
-@kathcmchang is where I store my projects on natural language processing (NLP) and other computational linguistics related works.
+@kathcmchang is where I store my coding projects, mostly on natural language processing (NLP) and computational linguistics.
 
 Visit my website at https://kathcmchang.github.io/
